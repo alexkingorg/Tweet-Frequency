@@ -1,0 +1,6 @@
+Some little scripts to look at tweet frequency of my Twitter friends.
+
+## TODO
+
+- have the script run and archive data by day better
+- ability to pick up where left off after being rate limited
